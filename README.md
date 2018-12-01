@@ -1,5 +1,3 @@
 # podyplomowka
 Repozytorium podyplomowe
-*raz
-*dwa
-*trzy
+Załadowane zostały 3 nowe pliki Java
